@@ -1,0 +1,4 @@
+# built module artifacts
+*.so
+*.plugin
+host/testdata/bin/
